@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ContactsApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="birthday">Birthday:</string>
+    <string name="first_contact_date">First Contact Date:</string>
+    <string name="getfname">first name</string>
+    <string name="first_contact_day">first contact day</string>
+    <string name="birthdayedit">birthday</string>
+    <string name="last_nameedit">last name</string>
+    <string name="phone_numberedit">phone number</string>
+    <string name="save">save</string>
+    <string name="datestring" />
+    <string name="phonedefault" />
+    <string name="blankname" />
+    <string name="reinitialize_database">Reinitialize Database</string>
+    <string name="import_from_file">Import From File</string>
+    <string name="add">add</string>
+    <string name="backbutton">backbutton</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="address_2">Address 2:</string>
+    <string name="city">City:</string>
+    <string name="state">State:</string>
+    <string name="zip_code">Zip Code:</string>
+    <string name="get_location">Get Location</string>
+    <string name="address_1">Address 1:</string>
+
+
+</resources>
